@@ -12,11 +12,11 @@ Eventually you will want to upgrade from no tools to something a little more spi
 # Getting Settled
 Now that you’ve started bringing in some cash and got a handful of ressources it’s time you start becoming more efficient. There are many machines that will improve your quality of life and make things more obtainable. These are some of the mods we recommend using to get started. They will not go into description on this page, we will leave them linked to their proper wiki pages. 
     
-[Mekanism](https://wiki.aidancbrady.com/wiki/Main_Page) : This mod will assist you in creating better tools and power.
-[Thermal Expansion](https://ftbwiki.org/Thermal_Expansion) : This mod will help you automate ressources and double some of your materials.
-[Rats](https://rats-mod.fandom.com/wiki/Rats_Mod_Wiki) : Those cute little fellas are more useful than you think, they can help you automate Drug growing and other useful things.
-[Flans](https://flans-gun-mod.fandom.com/wiki/Flans_Gun_Mod_Wiki) : This is the mod that contains all the guns and armor you could ever need.
-[Applied Energistics](https://ftb.fandom.com/wiki/Applied_Energistics_2) : For when you don’t want to have a million chests taking up space in your base.
+- [Mekanism](https://wiki.aidancbrady.com/wiki/Main_Page) : This mod will assist you in creating better tools and power.
+- [Thermal Expansion](https://ftbwiki.org/Thermal_Expansion) : This mod will help you automate ressources and double some of your materials.
+- [Rats](https://rats-mod.fandom.com/wiki/Rats_Mod_Wiki) : Those cute little fellas are more useful than you think, they can help you automate Drug growing and other useful things.
+- [Flans](https://flans-gun-mod.fandom.com/wiki/Flans_Gun_Mod_Wiki) : This is the mod that contains all the guns and armor you could ever need.
+- [Applied Energistics](https://ftb.fandom.com/wiki/Applied_Energistics_2) : For when you don’t want to have a million chests taking up space in your base.
 These are just some basic mods to make the pack more enjoyable for you. We recommend reading up on them if you are not familiar with them.
 # It’s Time
 That's the basics for you, it’s time for you to go on out and become the best Criminal Chillax’s Organized Crime has ever seen.
