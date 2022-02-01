@@ -9,6 +9,14 @@ Now that you understand how to make money it's time you move off the streets and
 
 # Getting Resources
 Eventually you will want to upgrade from no tools to something a little more spicy. There are Resource Zones scattered around the map, some are in the Safezone others are out in the PvP Zone. The zones that are deadlier tend to have better resources and more of them. We recommend bringing a weapon to keep yourself alive. Possibly bringing a team mate along may help. 
+# Zones
+Now in the server there are a few zones. We will list each zone and what they do so you fully understand what you're getting into.
+- Safe Zone, here is where you are safe from PvP, rent prices are more expensive however.
+- PvP Zone, here is where the PvP is, rent prices are lower then the safe zone.
+- Nort, East, South and West Mines, these are all located in the PvP zone, so bring a weapon. You will also find better ores and more of them.
+- Lumber Yards, this is where you get your wood from, they are in both the PvP and the Safe zones.
+- Nether and End Mines, these are located in the PvP zone, this is where you will find your quartz and enderpearls and such.
+- The Mansion, this is where the Drug Seller is located, he will buy all your drugs and also sell you seeds.
 # Getting Settled
 Now that you’ve started bringing in some cash and got a handful of ressources it’s time you start becoming more efficient. There are many machines that will improve your quality of life and make things more obtainable. These are some of the mods we recommend using to get started. They will not go into description on this page, we will leave them linked to their proper wiki pages. 
     
