@@ -18,5 +18,6 @@ Now that you’ve started bringing in some cash and got a handful of ressources 
 - [Flans](https://flans-gun-mod.fandom.com/wiki/Flans_Gun_Mod_Wiki) : This is the mod that contains all the guns and armor you could ever need.
 - [Applied Energistics](https://ftb.fandom.com/wiki/Applied_Energistics_2) : For when you don’t want to have a million chests taking up space in your base.
 These are just some basic mods to make the pack more enjoyable for you. We recommend reading up on them if you are not familiar with them.
+
 # It’s Time
 That's the basics for you, it’s time for you to go on out and become the best Criminal Chillax’s Organized Crime has ever seen.
