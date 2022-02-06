@@ -11,16 +11,3 @@ Coca, Fairy dust, Blow, Speedball, Nose Candy, Snow, they all mean the same thin
 #### Shrooms 
 Shrooms, the magical mush. There are two types of Shrooms, the regular Shroom and the Spiked Shroom. To make the regular Shroom, you will need 1 brown mushroom, 1 red mushroom and 1 Sugar. Put these into an Industrial Oven to make 1 regular Shroom. Now to make Spike Shroom, you will need one regular Shroom and 2 Cocaine Powder. Place them into an Industrial Oven and it will make 1 Spiked Shroom.
 ## Drug Manufacturing 
-There are a handful of new machines you will need to make in order to craft the drugs. They are not very complex but do require power and can be automated, it is side specific so you may need to spin them around to find which side is the input and output.
-#### Drier 
-The [Drier](https://user-images.githubusercontent.com/40803035/151986897-fe05d5a5-af02-4f81-8922-6c6173a8851a.PNG) takes 60 RF/T to use Input on the top output on the bottom. It will need Wood planks x4, Glowstone block, Glass plane, Diamond x2, Gold Block. It will dry certain plants into dried plants to be used for crafting.
-#### Compactor 
-The [Compactor](https://user-images.githubusercontent.com/40803035/151986895-f9bcef57-66e0-47ef-9276-d6afaef02e47.PNG) takes 120 RF/T to use Input on the top output on the bottom. It will need Stone x3, Anvils x3, Redstone blocks x2, Diamond. It will compact certain drugs into packets or bags or pouches depending on the drug.
-#### Grinder
-The [Grinder](https://user-images.githubusercontent.com/40803035/151986898-d5cdd642-4e51-4d37-8971-7a7919ef7358.PNG) takes 60 RF/T to use Input on the top output on the bottom. It will need Diamond x2, Quartz x3, Redstone blocks x2, Stone. It will grind down leaves or plants into powders.
-#### Industrial Oven
-The [Industrial Oven](https://user-images.githubusercontent.com/40803035/151986621-a191b686-dd61-4d3b-8ec4-fc7ccaa16412.PNG) takes 120 RF/T to use Input on the top, and Left, back and Right side output on the bottom. It will need Diamond Block, Redstone block x2, Gold block x3, Furnace x3. It will cook powders and plant matter into drugs.
-
-
-
-
