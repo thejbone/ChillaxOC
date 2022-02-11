@@ -1,2 +1,2 @@
 # Chillax Organized Crime
-### _Welcome to our GitHub Page!_
+### _Welcome to the wiki!_
